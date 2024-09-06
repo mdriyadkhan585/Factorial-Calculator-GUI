@@ -1,0 +1,22 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <!-- Background Circle -->
+  <circle cx="200" cy="200" r="180" fill="#306998" stroke="#ffffff" stroke-width="10"/>
+
+  <!-- Python Icon Representation -->
+  <g transform="translate(100, 80)">
+    <!-- Upper Python Part -->
+    <rect width="130" height="70" rx="15" ry="15" fill="#FFD43B"/>
+    <circle cx="35" cy="35" r="15" fill="#306998"/>
+    <!-- Lower Python Part -->
+    <rect y="80" width="130" height="70" rx="15" ry="15" fill="#306998"/>
+    <circle cx="95" cy="115" r="15" fill="#FFD43B"/>
+  </g>
+
+  <!-- Factorial Symbol -->
+  <text x="150" y="280" font-family="Arial" font-size="60" fill="white" font-weight="bold">n!</text>
+
+  <!-- Title Text -->
+  <text x="100" y="350" font-family="Verdana" font-size="30" fill="white" font-weight="bold">Factorial Calculator</text>
+
+</svg>
