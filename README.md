@@ -1,8 +1,8 @@
 # 📊 Factorial Calculator - GUI Version using PySide6 & QtPy
 ---
-[In python]()
+[In python](https://github.com/mdriyadkhan585/Factorial-Calculator-in-Python)
 
-[In C script]()
+[In C script](https://github.com/mdriyadkhan585/Factorial-Calculator-in-C)
 
 
 ![Logo](logo.svg)
