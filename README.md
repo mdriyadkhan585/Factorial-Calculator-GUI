@@ -1,6 +1,9 @@
 # 📊 Factorial Calculator - GUI Version using PySide6 & QtPy
 ---
-[In Python]()
+[In python]()
+
+[In C script]()
+
 
 ![Logo](logo.svg)
 
