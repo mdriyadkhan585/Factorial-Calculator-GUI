@@ -101,7 +101,11 @@ This project is a graphical implementation of a factorial calculator that accept
   ```python
   self.input_field.setStyleSheet("color: white; background-color: black;")
   ```
+---
+## Screenshot
+![Screenshot](example.jpg)
 
+---
 ## 📂 File Structure
 
 ```
